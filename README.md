@@ -1,3 +1,3 @@
-<div style="disiplay: flex; justify-content: center">
+<p align="center">
     <img src="./assets/logo.png">
-</div>
+</p>
