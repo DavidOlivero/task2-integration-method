@@ -1,0 +1,7 @@
+\newcommand{\drwdenominator}[1]{
+    \ifnum#1=0
+    \fexpression(\sexpression)(\texpression)
+    \else
+    \cancel{\fexpression(\sexpression)(\texpression)}
+    \fi
+}
